@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c390516-f79d-445d-9e09-c292ea0bff4f" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_775bits_.coverage" NAME="在多层感知机中嵌入(775bits) Coverage Results" MODIFIED="1704240783671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_2588bits_.coverage" NAME="在对抗生成任务中嵌入(2588bits) Coverage Results" MODIFIED="1704849296616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_1__HSV___.coverage" NAME="将图片转化成图(N=1)训练模型(转到HSV域)(只取一个通道) Coverage Results" MODIFIED="1699866101389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_0bits_.coverage" NAME="在对抗生成任务中嵌入(0bits) Coverage Results" MODIFIED="1704872390748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$GCN_N_1_.coverage" NAME="训练图片的GCN网络(N=1) Coverage Results" MODIFIED="1699857880983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_384bits_.coverage" NAME="在分类任务中嵌入(384bits) Coverage Results" MODIFIED="1715741959128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits___1_.coverage" NAME="在分类任务中嵌入(96bits) (1) Coverage Results" MODIFIED="1715624719330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$GCN_Cora.coverage" NAME="GCN_Cora Coverage Results" MODIFIED="1699711250240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$3.coverage" NAME="测试3 Coverage Results" MODIFIED="1703997613358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$GCN.coverage" NAME="训练图片的GCN网络 Coverage Results" MODIFIED="1699816953537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__506bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(506bits) Coverage Results" MODIFIED="1704309022327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$KL____2_.coverage" NAME="在分类任务中的KL散度(批量) (2) Coverage Results" MODIFIED="1715679473690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法（大修中）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$VGG19net.coverage" NAME="VGG19net Coverage Results" MODIFIED="1699980855243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_400bits_.coverage" NAME="在对抗生成任务中嵌入(400bits) Coverage Results" MODIFIED="1704873777424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN___.coverage" NAME="在语义分割任务中嵌入(FCN)(增加嵌入点数量) Coverage Results" MODIFIED="1700041418234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_576bits___1_.coverage" NAME="在分类任务中嵌入(576bits) (1) Coverage Results" MODIFIED="1703931848214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/服务器" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1703944450323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_1550bits_.coverage" NAME="在多层感知机中嵌入(1550bits) Coverage Results" MODIFIED="1704243954006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits_adjust_.coverage" NAME="在分类任务中嵌入(96bits_adjust) Coverage Results" MODIFIED="1715629767897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_506bits_.coverage" NAME="在对抗生成任务中嵌入(506bits) Coverage Results" MODIFIED="1702571704141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$lenet.coverage" NAME="lenet Coverage Results" MODIFIED="1699714889810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lenet" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$Deep_Convolutional_Generative_Adversarial_Networks.coverage" NAME="Deep Convolutional Generative Adversarial Networks Coverage Results" MODIFIED="1701076424127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__2024bits___1_.coverage" NAME="在语义分割任务中嵌入(FCN)(2024bits) (1) Coverage Results" MODIFIED="1704308679857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_2325bits_.coverage" NAME="在多层感知机中嵌入(2325bits) Coverage Results" MODIFIED="1704245642410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_288bits___1_.coverage" NAME="在分类任务中嵌入(288bits) (1) Coverage Results" MODIFIED="1704254036172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits_zongfen___1_.coverage" NAME="在分类任务中嵌入(96bits_zongfen) (1) Coverage Results" MODIFIED="1715619661824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_192bits_zongfen_.coverage" NAME="在分类任务中嵌入(192bits_zongfen) Coverage Results" MODIFIED="1715708933340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$KL__2_.coverage" NAME="在语义分割任务中的KL散度 (2) Coverage Results" MODIFIED="1704349804941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法" />
+    <SUITE FILE_PATH="coverage/demo$extract_secret_data__1_.coverage" NAME="extract_secret_data (1) Coverage Results" MODIFIED="1715761929946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1703921456623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_1_.coverage" NAME="将图片转化成图(N=1) Coverage Results" MODIFIED="1699861053627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_3100bits_.coverage" NAME="在多层感知机中嵌入(3100bits) Coverage Results" MODIFIED="1704262420742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$__2_.coverage" NAME="在分类任务中的准确率 (2) Coverage Results" MODIFIED="1704360661755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__1012bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(1012bits) Coverage Results" MODIFIED="1704308632792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__1518bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(1518bits) Coverage Results" MODIFIED="1704308669988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_16____HSV___.coverage" NAME="将图片转化成图(N=16)(多加几层)(转到HSV域)(只取一个通道) Coverage Results" MODIFIED="1699866635886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__2530bits___1_.coverage" NAME="在语义分割任务中嵌入(FCN)(2530bits) (1) Coverage Results" MODIFIED="1704308409129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__512bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(512bits) Coverage Results" MODIFIED="1700071605563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_800bits_.coverage" NAME="在对抗生成任务中嵌入(800bits) Coverage Results" MODIFIED="1704866621342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$5.coverage" NAME="测试5 Coverage Results" MODIFIED="1704000557335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_288bits_zongfen_.coverage" NAME="在分类任务中嵌入(288bits_zongfen) Coverage Results" MODIFIED="1715704962475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$KL____1_.coverage" NAME="在分类任务中的KL散度(批量) (1) Coverage Results" MODIFIED="1715679475419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits_.coverage" NAME="在分类任务中嵌入(96bits) Coverage Results" MODIFIED="1715741562688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$extract_secret_data.coverage" NAME="extract_secret_data Coverage Results" MODIFIED="1715761786584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_github" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__506bits___1_.coverage" NAME="在语义分割任务中嵌入(FCN)(506bits) (1) Coverage Results" MODIFIED="1704308260832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_288bits_.coverage" NAME="在分类任务中嵌入(288bits) Coverage Results" MODIFIED="1715741767177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$pytest_in_GCN_Cora_py.coverage" NAME="pytest in GCN_Cora.py Coverage Results" MODIFIED="1698411417889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$2.coverage" NAME="测试2 Coverage Results" MODIFIED="1703997595497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_800bits___.coverage" NAME="在对抗生成任务中嵌入(800bits..) Coverage Results" MODIFIED="1704877368869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_576bits_.coverage" NAME="在分类任务中嵌入(576bits) Coverage Results" MODIFIED="1715740745553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__2530bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(2530bits) Coverage Results" MODIFIED="1704305750947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$KL__.coverage" NAME="在分类任务中的KL散度(批量) Coverage Results" MODIFIED="1715755391037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits_zongfen_.coverage" NAME="在分类任务中嵌入(96bits_zongfen) Coverage Results" MODIFIED="1715709502730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$GAN.coverage" NAME="GAN模型 Coverage Results" MODIFIED="1701130882384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_384bits_zongfen_.coverage" NAME="在分类任务中嵌入(384bits_zongfen) Coverage Results" MODIFIED="1715712242958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__0bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(0bits) Coverage Results" MODIFIED="1702728309953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_576bits_zongfen_.coverage" NAME="在分类任务中嵌入(576bits_zongfen) Coverage Results" MODIFIED="1715713625859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_480bits_.coverage" NAME="在分类任务中嵌入(480bits) Coverage Results" MODIFIED="1715741964419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_480bits___1_.coverage" NAME="在分类任务中嵌入(480bits) (1) Coverage Results" MODIFIED="1715749493563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_3882bits_.coverage" NAME="在对抗生成任务中嵌入(3882bits) Coverage Results" MODIFIED="1704856519027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_1___.coverage" NAME="将图片转化成图(N=1)(只取一个通道) Coverage Results" MODIFIED="1699862755309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_864bits_.coverage" NAME="在分类任务中嵌入(864bits) Coverage Results" MODIFIED="1702033807528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_1_____.coverage" NAME="将图片转化成图(N=1)(多加几层)(只取一个通道) Coverage Results" MODIFIED="1699860703849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$00_voc2012.coverage" NAME="00.voc2012 Coverage Results" MODIFIED="1699935599987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$KL__1_.coverage" NAME="在语义分割任务中的KL散度 (1) Coverage Results" MODIFIED="1704348231830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_16___1_.coverage" NAME="将图片转化成图(N=16) (1) Coverage Results" MODIFIED="1699859225973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$__1_.coverage" NAME="批量提取秘密信息 (1) Coverage Results" MODIFIED="1715760180365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_github" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_480bits_zongfen_.coverage" NAME="在分类任务中嵌入(480bits_zongfen) Coverage Results" MODIFIED="1715710671736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_768bits_.coverage" NAME="在分类任务中嵌入(768bits) Coverage Results" MODIFIED="1715741249929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN__2024bits_.coverage" NAME="在语义分割任务中嵌入(FCN)(2024bits) Coverage Results" MODIFIED="1704306451318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_FCN_.coverage" NAME="在语义分割任务中嵌入(FCN) Coverage Results" MODIFIED="1699984661063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$KL.coverage" NAME="在对抗生成任务中的KL散度 Coverage Results" MODIFIED="1704879161737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_3875bits_.coverage" NAME="在多层感知机中嵌入(3875bits) Coverage Results" MODIFIED="1704263675856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_1294bits_.coverage" NAME="在对抗生成任务中嵌入(1294bits) Coverage Results" MODIFIED="1704857393615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits___2_.coverage" NAME="在分类任务中嵌入(96bits) (2) Coverage Results" MODIFIED="1715626214690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/王老师的方法（大修中）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_16_.coverage" NAME="将图片转化成图(N=16) Coverage Results" MODIFIED="1699856335657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_192bits_.coverage" NAME="在分类任务中嵌入(192bits) Coverage Results" MODIFIED="1715741760286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_672bits_.coverage" NAME="在分类任务中嵌入(672bits) Coverage Results" MODIFIED="1715740971998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$.coverage" NAME="批量提取秘密信息 Coverage Results" MODIFIED="1715760113469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo2" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_1200bits_.coverage" NAME="在对抗生成任务中嵌入(1200bits) Coverage Results" MODIFIED="1704881636545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5(隔离)" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$4.coverage" NAME="测试4 Coverage Results" MODIFIED="1704000536250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学姐的方法" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_672bits_zongfen_.coverage" NAME="在分类任务中嵌入(672bits_zongfen) Coverage Results" MODIFIED="1715713641942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_768bits_zongfen_.coverage" NAME="在分类任务中嵌入(768bits_zongfen) Coverage Results" MODIFIED="1715713719994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（总分）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_N_1__HSV_____1_.coverage" NAME="将图片转化成图(N=1)(转到HSV域)(只取一个通道) (1) Coverage Results" MODIFIED="1699866925006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$_96bits__.coverage" NAME="在分类任务中嵌入(96bits_环形) Coverage Results" MODIFIED="1715616752003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/不同网络拓扑结构（环形拓扑）" />
+    <SUITE FILE_PATH="coverage/GraphNeuralNetwork_master$float_to_bit.coverage" NAME="float_to_bit Coverage Results" MODIFIED="1698513993713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/量化" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extract_secret_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5303">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Using Cached file</find>
+      <find>torch.save</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(2588bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(3882bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(1294bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(1200bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(800bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在多层感知机中嵌入(775bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(0bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在分类任务中的KL散度.py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(400bits).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(800bits..).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(1200bits..).py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中的KL散度.py" />
+        <option value="$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/王老师的方法/在分类任务中嵌入(768bits).py" />
+        <option value="$PROJECT_DIR$/王老师的方法/在语义分割任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/王老师的方法/在分类任务中嵌入(96bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构/在分类任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构/在分类任务中嵌入(96bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（网状拓扑）/在分类任务中嵌入(96bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（环形拓扑）/在分类任务中嵌入(96bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（环形拓扑）/在分类任务中嵌入(96bits_环形).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（环形拓扑）/在分类任务中嵌入(96bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（环形拓扑）/在分类任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/王老师的方法（大修中）/在分类任务中嵌入(96bits).py" />
+        <option value="$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）/在分类任务中嵌入(96bits_adjust).py" />
+        <option value="$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）/在分类任务中嵌入(96bits).py" />
+        <option value="$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）/在分类任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/王老师的方法（大修中）/在分类任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(288bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(192bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(96bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(288bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(480bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(480bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(384bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(384bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(576bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(672bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(768bits_zongfen).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(576bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(768bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(96bits).py" />
+        <option value="$PROJECT_DIR$/不同网络拓扑结构（总分）/在分类任务中嵌入(192bits).py" />
+        <option value="$PROJECT_DIR$/demo/隐写.py" />
+        <option value="$PROJECT_DIR$/demo/将字符串隐写入模型中.py" />
+        <option value="$PROJECT_DIR$/demo/在分类任务中的KL散度(批量).py" />
+        <option value="$PROJECT_DIR$/demo2/批量提取秘密信息.py" />
+        <option value="$PROJECT_DIR$/demo2/将字符串隐写入模型中.py" />
+        <option value="$PROJECT_DIR$/demo_github/批量提取秘密信息.py" />
+        <option value="$PROJECT_DIR$/demo_github/extract_secret_data.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="251" />
+    <option name="y" value="58" />
+    <option name="width" value="1332" />
+    <option name="height" value="857" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master\demo" />
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master\不同网络拓扑结构（总分）" />
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master\王老师的方法（大修中：验证一个想法）" />
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master" />
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master\王老师的方法（大修中）" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master\chapter5\图片转图（失败）" />
+      <recent name="F:\git仓库_图神经网络\GraphNeuralNetwork-master\chapter5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.extract_secret_data (1)">
+    <configuration name="将字符串隐写入模型中 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/将字符串隐写入模型中.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="批量提取秘密信息 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNeuralNetwork-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_github" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_github/批量提取秘密信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="批量提取秘密信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo2/批量提取秘密信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="在多层感知机中的KL散度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNeuralNetwork-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/在多层感知机中的KL散度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="在分类任务中的KL散度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNeuralNetwork-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/在分类任务中的KL散度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="在分类任务中的KL散度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNeuralNetwork-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/在分类任务中的KL散度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="在多层感知机中的KL散度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNeuralNetwork-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/在多层感知机中的KL散度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="在语义分割任务中的KL散度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GraphNeuralNetwork-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/在语义分割任务中的KL散度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="在分类任务中的KL散度(批量)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/在分类任务中的KL散度(批量).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_secret_data (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_secret_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_secret_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_github" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_github/extract_secret_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.在分类任务中的KL散度(批量)" />
+      <item itemvalue="Python.将字符串隐写入模型中 (1)" />
+      <item itemvalue="Python.批量提取秘密信息" />
+      <item itemvalue="Python.extract_secret_data" />
+      <item itemvalue="Python.extract_secret_data (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.extract_secret_data (1)" />
+        <item itemvalue="Python.extract_secret_data" />
+        <item itemvalue="Python.批量提取秘密信息" />
+        <item itemvalue="Python.将字符串隐写入模型中 (1)" />
+        <item itemvalue="Python.在分类任务中的KL散度(批量)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c390516-f79d-445d-9e09-c292ea0bff4f" name="默认更改列表" comment="" />
+      <created>1697695199986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697695199986</updated>
+      <workItem from="1697695212248" duration="2362000" />
+      <workItem from="1698237620076" duration="170000" />
+      <workItem from="1698312402781" duration="2636000" />
+      <workItem from="1698411395609" duration="2701000" />
+      <workItem from="1698457158025" duration="21437000" />
+      <workItem from="1698582586474" duration="7647000" />
+      <workItem from="1699686426763" duration="8496000" />
+      <workItem from="1699708727125" duration="13964000" />
+      <workItem from="1699770837415" duration="15653000" />
+      <workItem from="1699805574598" duration="452000" />
+      <workItem from="1699807339516" duration="2872000" />
+      <workItem from="1699810946427" duration="2397000" />
+      <workItem from="1699813507983" duration="434000" />
+      <workItem from="1699814312296" duration="2792000" />
+      <workItem from="1699853567543" duration="26413000" />
+      <workItem from="1699935557028" duration="8543000" />
+      <workItem from="1699949172317" duration="9107000" />
+      <workItem from="1699960878990" duration="27123000" />
+      <workItem from="1700032505646" duration="16994000" />
+      <workItem from="1700124970122" duration="8619000" />
+      <workItem from="1701061766622" duration="14982000" />
+      <workItem from="1701130564597" duration="6136000" />
+      <workItem from="1701138151035" duration="1947000" />
+      <workItem from="1701496614867" duration="5554000" />
+      <workItem from="1701585318286" duration="4616000" />
+      <workItem from="1701666826168" duration="5935000" />
+      <workItem from="1701745923723" duration="652000" />
+      <workItem from="1702003397694" duration="42401000" />
+      <workItem from="1702361515413" duration="9219000" />
+      <workItem from="1702376073693" duration="10939000" />
+      <workItem from="1702426222237" duration="9816000" />
+      <workItem from="1702534362444" duration="6265000" />
+      <workItem from="1702545048902" duration="19587000" />
+      <workItem from="1702707201972" duration="24889000" />
+      <workItem from="1702752777198" duration="8764000" />
+      <workItem from="1702795047719" duration="13373000" />
+      <workItem from="1702984313566" duration="3132000" />
+      <workItem from="1703550194211" duration="1793000" />
+      <workItem from="1703915222812" duration="31632000" />
+      <workItem from="1703960243872" duration="1259000" />
+      <workItem from="1703992084783" duration="17173000" />
+      <workItem from="1704026029366" duration="8826000" />
+      <workItem from="1704035715174" duration="197000" />
+      <workItem from="1704036205626" duration="2344000" />
+      <workItem from="1704039440860" duration="3987000" />
+      <workItem from="1704081600754" duration="4695000" />
+      <workItem from="1704116109936" duration="1445000" />
+      <workItem from="1704239722411" duration="17358000" />
+      <workItem from="1704261283557" duration="5873000" />
+      <workItem from="1704299607805" duration="10281000" />
+      <workItem from="1704344589945" duration="19947000" />
+      <workItem from="1704427555378" duration="1060000" />
+      <workItem from="1704795634687" duration="9017000" />
+      <workItem from="1704846270845" duration="10875000" />
+      <workItem from="1704861162918" duration="19057000" />
+      <workItem from="1706273736158" duration="723000" />
+      <workItem from="1706447144375" duration="1605000" />
+      <workItem from="1710943939322" duration="297000" />
+      <workItem from="1711261939807" duration="4551000" />
+      <workItem from="1711290709614" duration="2899000" />
+      <workItem from="1711971131382" duration="8127000" />
+      <workItem from="1715608215580" duration="17697000" />
+      <workItem from="1715679302008" duration="46137000" />
+      <workItem from="1715761902925" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_GCN_Cora_py - 2023.10.27 at 20h 57m 30s.xml">
+      <configuration name="pytest in GCN_Cora.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="618549000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49846625" visible="true" weight="0.2217484" />
+      <window_info id="Structure" order="1" sideWeight="0.50153375" side_tool="true" weight="0.1380597" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3531961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3287841" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.29144096" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.36898017" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49846625" visible="true" weight="0.2249467" />
+      <window_info id="Structure" order="1" sideWeight="0.50153375" side_tool="true" weight="0.1380597" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35861322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3287841" />
+      <window_info anchor="bottom" id="调试" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.25783134" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/量化/静态量化.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lenet/lenet.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter5/GCN_Cora.py</url>
+          <line>269</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter5/GCN_Cora.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter5/图片转图（失败）/将图片转化成图(N=16).py</url>
+          <line>283</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter5/在多层感知机中嵌入(1550bits).py</url>
+          <line>104</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter5/DCGAN.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter5/GAN模型.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/王老师的方法/在分类任务中嵌入(768bits).py</url>
+          <line>299</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo/字符串和bit互相转化.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="out" />
+        <watch expression="model_int8._modules.'conv' (1682343392048)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter5(隔离)/00.voc2012.py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法/在分类任务中嵌入(768bits).py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法/在语义分割任务中嵌入(FCN)(506bits).py" />
+    <entry file="file://E:/software/Anaconda3/envs/torchgpu2/Lib/site-packages/torch/nn/functional.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/王老师的方法/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法/在语义分割任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/chapter5(隔离)/在对抗生成任务中嵌入(判别器嵌入506bits).py" />
+    <entry file="file://$PROJECT_DIR$/chapter5(大修中)/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构/在分类任务中嵌入(96bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（环形拓扑lenet）/在分类任务中嵌入(96bits_环形).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（环形拓扑lenet）/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（环形拓扑lenet）/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/lenet_junyun_96bit.txt" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）/在分类任务中嵌入(96bits_adjust).py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法（大修中：验证一个想法）/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法（大修中）/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/王老师的方法（大修中）/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/lenet_junyun_288bit.txt" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(768bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/chapter5(大修中)/在分类任务中嵌入(576bits).py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/.PyCharm2018.3/system/python_stubs/-1649343/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5436">
+          <caret line="386" column="6" selection-start-line="386" selection-start-column="6" selection-end-line="386" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(672bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(576bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(576bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(672bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(768bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(96bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(96bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(192bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(288bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(480bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(384bits_zongfen).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(192bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(288bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(384bits).py" />
+    <entry file="file://$PROJECT_DIR$/不同网络拓扑结构（总分lenet）/在分类任务中嵌入(480bits).py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/.PyCharm2018.3/system/python_stubs/-1649343/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="4742" column="8" selection-start-line="4742" selection-start-column="8" selection-end-line="4742" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/在分类任务中嵌入(480bits).py" />
+    <entry file="file://$PROJECT_DIR$/demo/将字符串隐写入模型中.py" />
+    <entry file="file://$PROJECT_DIR$/demo/字符串和bit互相转化.py" />
+    <entry file="file://$PROJECT_DIR$/demo/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/demo2/在分类任务中的KL散度(批量).py" />
+    <entry file="file://$PROJECT_DIR$/demo2/批量提取秘密信息.py" />
+    <entry file="file://$PROJECT_DIR$/demo2/将字符串隐写入模型中.py" />
+    <entry file="file://$PROJECT_DIR$/demo_github/批量提取秘密信息.py" />
+    <entry file="file://$PROJECT_DIR$/demo_github/extract_secret_data.py" />
+    <entry file="file://$PROJECT_DIR$/extract_secret_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5303">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
