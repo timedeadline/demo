@@ -204,7 +204,9 @@ def calculate_KL_divergence(origin_net, lenet):
     p = torch.tensor(origin_frequency.data)
     q = torch.tensor(stego_frequency.data)
     for i in range(len(q)):
-        if p[i] != 0 and q[i] == 0:
+        # if p[i] != 0 and q[i] == 0:
+        #     q[i] = 0.0001
+        if q[i] == 0:
             q[i] = 0.0001
     p = p / p.sum()
     q = q / q.sum()
